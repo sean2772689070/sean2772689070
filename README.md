@@ -32,7 +32,5 @@
 - 📫 How to reach me? Email: seanhyg2772689070@gmail.com<br>
 
 [![August](https://github-readme-stats.vercel.app/api?username=August)](https://github.com/anuraghazra/github-readme-stats)
-<span>
-https://stats.justsong.cn/api/github?username=songquanpeng
-</span>
+<img src="https://stats.justsong.cn/api/github?username=songquanpeng" />
 
