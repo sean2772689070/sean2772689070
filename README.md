@@ -31,5 +31,7 @@
 - 💞️ I’m looking to collaborate on article synchronization assistant.
 - 📫 How to reach me? Email: seanhyg2772689070@gmail.com<br>
 
-<img src="https://stats.justsong.cn/api/github?username=August&theme=dark" />
+<div>
+  <img src="https://stats.justsong.cn/api/github?username=August&theme=dark" />
 <img sec="https://stats.justsong.cn/api/leetcode/?username=quanpeng&theme=dark" />
+</div>
