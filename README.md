@@ -32,5 +32,5 @@
 - 📫 How to reach me? Email: seanhyg2772689070@gmail.com<br>
 
 
-![我的 GitHub 数据](https://stats.justsong.cn/api/github?username=August&theme=dark)
+![我的 GitHub 数据](https://stats.justsong.cn/api/github?username=sean2772689070&theme=dark)
 ![我的 LeetCode 数据](https://stats.justsong.cn/api/leetcode/?username=cranky-i3lackhxh&theme=dark&cn_username=August)
