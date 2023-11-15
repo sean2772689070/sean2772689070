@@ -31,6 +31,6 @@
 - 💞️ I’m looking to collaborate on article synchronization assistant.
 - 📫 How to reach me? Email: seanhyg2772689070@gmail.com<br>
 
-[![August](https://github-readme-stats.vercel.app/api?username=August)](https://github.com/anuraghazra/github-readme-stats)
+[![August](https://github-readme-stats.vercel.app/api?username=August&width=100%)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://stats.justsong.cn/api/github?username=songquanpeng" />
 
