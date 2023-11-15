@@ -25,9 +25,9 @@
 ## Hi! Nice to meet you!
 
 <!-- 个人简介 -->
-- 👋 Hi, I’m @Lorin-github
-- 👀 I ’m interest in Java, server development, database, computer network, operating system, AI, etc.
-- 🌱 I’m currently learning database, AI,Chrome plug -in development.
+- 👋 Hi, I’m @August
+- 👀 I ’m interest in JavaScript, Vue, React, computer network, operating system, AI, etc.
+- 🌱 I’m currently learning Uniapp, taro, Java.
 - 💞️ I’m looking to collaborate on article synchronization assistant.
 - 📫 How to reach me? Email: gmqiujun@gmail.com
 
