@@ -29,5 +29,5 @@
 - 👀 I ’m interest in JavaScript, Vue, React, computer network, operating system, AI, etc.
 - 🌱 I’m currently learning Uniapp, taro, Java.
 - 💞️ I’m looking to collaborate on article synchronization assistant.
-- 📫 How to reach me? Email: gmqiujun@gmail.com
+- 📫 How to reach me? Email: seanhyg2772689070@gmail.com
 
