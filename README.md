@@ -32,6 +32,6 @@
 - 📫 How to reach me? Email: seanhyg2772689070@gmail.com<br>
 
 <div>
-  <img src="https://stats.justsong.cn/api/github?username=August&theme=dark" />
-<img sec="https://stats.justsong.cn/api/leetcode/?username=quanpeng&theme=dark" />
+  <img src="https://stats.justsong.cn/api/github?username=August&theme=dark" width="49%"/>
+<img sec="https://stats.justsong.cn/api/leetcode/?username=quanpeng&theme=dark" width="49%"/>
 </div>
