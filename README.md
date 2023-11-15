@@ -33,4 +33,4 @@
 
 
 ![我的 GitHub 数据](https://stats.justsong.cn/api/github?username=August&theme=dark)
-![我的 LeetCode 数据](https://stats.justsong.cn/api/leetcode/?username=August&theme=dark&cn_username=August)
+![我的 LeetCode 数据](https://stats.justsong.cn/api/leetcode/?username=cranky-i3lackhxh&theme=dark&cn_username=August)
