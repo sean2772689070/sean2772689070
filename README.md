@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![August](https://github-readme-stats.vercel.app/api?username=sean2772689070&show_icons=true&theme=transparent)
 
-
+[![August](https://github-profile-trophy.vercel.app/?username=sean2772689070)](https://github.com/ryo-ma/github-profile-trophy)
 <sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
 
