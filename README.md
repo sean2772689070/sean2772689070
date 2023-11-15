@@ -30,9 +30,6 @@
 - 🌱 I’m currently learning Uniapp, taro, Java.
 - 💞️ I’m looking to collaborate on article synchronization assistant.
 - 📫 How to reach me? Email: seanhyg2772689070@gmail.com
-<div>
-  <div>
-    [![August](https://github-readme-stats.vercel.app/api?username=August)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-</div>
+<br/>
+[![August](https://github-readme-stats.vercel.app/api?username=August)](https://github.com/anuraghazra/github-readme-stats)
 
