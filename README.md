@@ -39,7 +39,7 @@ Hello! I'm **August**.
 ### 🚀 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,nodejs,java,go,rust,spring,nest,gin,fiber,tailwind,vite,webpack,docker,nuxt,redis,next,linux,git,unity&perline=11" />
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,nodejs,java,go,rust,spring,nest,godot,pinia,tailwind,vite,webpack,docker,nuxt,redis,next,linux,git,unity&perline=11" />
 </p>
 
 ---
