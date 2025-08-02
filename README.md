@@ -42,21 +42,5 @@
 ### 📈 我的贡献与统计 | My Stats & Contributions
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lorin-github&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="Profile Views"/>
-  <br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sean2772689070&show_icons=true&theme=github_dark&rank_icon=github&locale=zh-cn">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sean2772689070&show_icons=true&theme=default&rank_icon=github&locale=zh-cn">
-    <img alt="August's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sean2772689070&show_icons=true&theme=default&rank_icon=github&locale=zh-cn" />
-  </picture>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=dark&layout=compact" alt="Wakatime Stats"/>
-  <br/>
-  <img src="https://stats.justsong.cn/api/leetcode/?username=cranky-i3lackhxh&theme=dark&cn_username=August" alt="August's LeetCode Stats" />
-</div>
-
----
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sean2772689070&theme=dark&locale=zh_Hans" alt="GitHub Streak" />
 </div>
