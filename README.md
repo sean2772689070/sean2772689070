@@ -41,11 +41,3 @@ Hello! I'm **August**.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,vue,react,nodejs,java,go,rust,spring,nest,godot,pinia,tailwind,vite,webpack,docker,nuxt,redis,next,svelte,tauri,unity&perline=11" />
 </p>
-
----
-
-### 📈 My Contributions & Stats
-
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sean2772689070&theme=dark&locale=zh_Hans" alt="GitHub Streak" />
-</div>
